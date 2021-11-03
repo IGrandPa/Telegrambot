@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TelegramBotApp20210609103046" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\TelegramBot2017\\TelegrammAspMvcDotNetCoreBot\\TelegrammAspMvcDotNetCoreBot\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
